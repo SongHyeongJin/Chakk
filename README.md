@@ -1,5 +1,5 @@
 # 책크
-![chakk_icon_s](https://github.com/SongHyeongJin/Chakk/assets/112682861/2c631994-fa2f-400c-bbf8-c9431b4c335d)
+![chakk_icon_s](https://github.com/yuzy1022/Chakk/assets/112682861/2c631994-fa2f-400c-bbf8-c9431b4c335d)
 
 독서 기록장 및 독서 SNS 모바일 앱입니다.  
 프로젝트의 목표는 신규 독서 인구를 양성하기 위해 독서를 장려하고 독서에 대한 흥미를 유발하여 꾸준한 독서 활동으로 이어지는 것과, 독서 커뮤니티를 활용하여 기존 독서 인구 또한 공략하는 것입니다.
@@ -20,14 +20,14 @@ API : <a href="https://blog.aladin.co.kr/openapi/popup/6695306">알라딘 도서
 ------
 
 ## DB 구조
-![ER diagram](https://github.com/SongHyeongJin/Chakk/assets/112682861/d3a56853-b898-4e4c-aada-ac0cd9fbf058)
-![릴레이션 스키마](https://github.com/SongHyeongJin/Chakk/assets/112682861/d475ba09-4670-4a2e-a06d-2a1162b02326)
+![ER diagram](https://github.com/yuzy1022/Chakk/assets/112682861/d3a56853-b898-4e4c-aada-ac0cd9fbf058)
+![릴레이션 스키마](https://github.com/yuzy1022/Chakk/assets/112682861/d475ba09-4670-4a2e-a06d-2a1162b02326)
 <br>
 
 ------
 
 ## 화면 구성 및 세부 기능
-![UI](https://github.com/SongHyeongJin/Chakk/assets/112682861/5810509b-d2a7-457e-8442-3a81f0429fe1)  
+![UI](https://github.com/yuzy1022/Chakk/assets/112682861/5810509b-d2a7-457e-8442-3a81f0429fe1)  
 <br>
 <a href="https://github.com/SongHyeongJin/Chakk/wiki/%EC%84%B8%EB%B6%80-%EA%B8%B0%EB%8A%A5-%EC%84%A4%EB%AA%85#%EB%A9%94%EC%9D%B8-%ED%99%94%EB%A9%B4">메인 화면</a>  
 <a href="https://github.com/SongHyeongJin/Chakk/wiki/%EC%84%B8%EB%B6%80-%EA%B8%B0%EB%8A%A5-%EC%84%A4%EB%AA%85#%EB%8F%84%EC%84%9C-%EA%B2%80%EC%83%89">도서 검색</a>  
